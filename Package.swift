@@ -6,7 +6,7 @@ let package = Package(
 	name: "ICMPPing",
 	platforms: [
 		.macOS(.v11),
-		.iOS(.v14),
+		.iOS(.v12),
 		.watchOS(.v6),
 		.tvOS(.v12),
 	],
